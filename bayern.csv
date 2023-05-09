@@ -1,0 +1,57 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season,country
+Bayern Munich,Mario Gómez,23.0,Centre-Forward,VfB Stuttgart,€30.00m,in,Summer,30.0,1 Bundesliga,2009,2009/2010,Germany
+Bayern Munich,Arjen Robben,25.0,Right Winger,Real Madrid,€25.00m,in,Summer,25.0,1 Bundesliga,2009,2009/2010,Germany
+Bayern Munich,Anatoliy Tymoshchuk,30.0,Defensive Midfield,Zenit St. Petersburg,€11.00m,in,Summer,11.0,1 Bundesliga,2009,2009/2010,Germany
+Bayern Munich,Danijel Pranjic,27.0,Left-Back,SC Heerenveen,€7.70m,in,Summer,7.7,1 Bundesliga,2009,2009/2010,Germany
+Bayern Munich,Edson Braafheid,26.0,Left-Back,Twente Enschede FC,€2.00m,in,Summer,2.0,1 Bundesliga,2009,2009/2010,Germany
+Bayern Munich,Luiz Gustavo,23.0,Defensive Midfield,TSG 1899 Hoffenheim,€17.00m,in,Winter,17.0,1 Bundesliga,2010,2010/2011,Germany
+Bayern Munich,Manuel Neuer,25.0,Goalkeeper,FC Schalke 04,€30.00m,in,Summer,30.0,1 Bundesliga,2011,2011/2012,Germany
+Bayern Munich,Jérôme Boateng,22.0,Centre-Back,Manchester City,€13.50m,in,Summer,13.5,1 Bundesliga,2011,2011/2012,Germany
+Bayern Munich,Rafinha,25.0,Right-Back,Genoa CFC,€5.50m,in,Summer,5.5,1 Bundesliga,2011,2011/2012,Germany
+Bayern Munich,Nils Petersen,22.0,Centre-Forward,FC Energie Cottbus,€2.80m,in,Summer,2.8,1 Bundesliga,2011,2011/2012,Germany
+Bayern Munich,Takashi Usami,19.0,Centre-Forward,Gamba Osaka,Loan fee:€300k,in,Summer,0.3,1 Bundesliga,2011,2011/2012,Germany
+Bayern Munich,Javi Martínez,23.0,Defensive Midfield,Athletic Bilbao,€40.00m,in,Summer,40.0,1 Bundesliga,2012,2012/2013,Germany
+Bayern Munich,Mario Mandzukic,26.0,Centre-Forward,VfL Wolfsburg,€13.00m,in,Summer,13.0,1 Bundesliga,2012,2012/2013,Germany
+Bayern Munich,Xherdan Shaqiri,20.0,Right Winger,FC Basel 1893,€11.80m,in,Summer,11.8,1 Bundesliga,2012,2012/2013,Germany
+Bayern Munich,Dante,28.0,Centre-Back,Borussia Mönchengladbach,€4.70m,in,Summer,4.7,1 Bundesliga,2012,2012/2013,Germany
+Bayern Munich,Mitchell Weiser,18.0,Right-Back,1.FC Köln U19,€800k,in,Summer,0.8,1 Bundesliga,2012,2012/2013,Germany
+Bayern Munich,Mario Götze,21.0,Attacking Midfield,Borussia Dortmund,€37.00m,in,Summer,37.0,1 Bundesliga,2013,2013/2014,Germany
+Bayern Munich,Thiago,22.0,Central Midfield,FC Barcelona,€25.00m,in,Summer,25.0,1 Bundesliga,2013,2013/2014,Germany
+Bayern Munich,Medhi Benatia,27.0,Centre-Back,AS Roma,€28.00m,in,Summer,28.0,1 Bundesliga,2014,2014/2015,Germany
+Bayern Munich,Juan Bernat,21.0,Left-Back,Valencia CF,€10.00m,in,Summer,10.0,1 Bundesliga,2014,2014/2015,Germany
+Bayern Munich,Xabi Alonso,32.0,Defensive Midfield,Real Madrid,€9.00m,in,Summer,9.0,1 Bundesliga,2014,2014/2015,Germany
+Bayern Munich,Pepe Reina,31.0,Goalkeeper,Liverpool FC,€3.00m,in,Summer,3.0,1 Bundesliga,2014,2014/2015,Germany
+Bayern Munich,Sinan Kurt,18.0,Left Winger,Borussia Mönchengladbach II,€3.00m,in,Summer,3.0,1 Bundesliga,2014,2014/2015,Germany
+Bayern Munich,Ivan Lucic,19.0,Goalkeeper,SV Ried,€400k,in,Summer,0.4,1 Bundesliga,2014,2014/2015,Germany
+Bayern Munich,Arturo Vidal,28.0,Central Midfield,Juventus FC,€39.25m,in,Summer,39.25,1 Bundesliga,2015,2015/2016,Germany
+Bayern Munich,Douglas Costa,24.0,Right Winger,Shakhtar Donetsk,€30.00m,in,Summer,30.0,1 Bundesliga,2015,2015/2016,Germany
+Bayern Munich,Joshua Kimmich,20.0,Defensive Midfield,VfB Stuttgart,€8.50m,in,Summer,8.5,1 Bundesliga,2015,2015/2016,Germany
+Bayern Munich,Kingsley Coman,19.0,Left Winger,Juventus FC,Loan fee:€7.00m,in,Summer,7.0,1 Bundesliga,2015,2015/2016,Germany
+Bayern Munich,Sven Ulreich,26.0,Goalkeeper,VfB Stuttgart,€3.50m,in,Summer,3.5,1 Bundesliga,2015,2015/2016,Germany
+Bayern Munich,Serdar Tasci,28.0,Centre-Back,Spartak Moscow,Loan fee:€2.50m,in,Winter,2.5,1 Bundesliga,2015,2015/2016,Germany
+Bayern Munich,Renato Sanches,18.0,Central Midfield,SL Benfica,€35.00m,in,Summer,35.0,1 Bundesliga,2016,2016/2017,Germany
+Bayern Munich,Mats Hummels,27.0,Centre-Back,Borussia Dortmund,€35.00m,in,Summer,35.0,1 Bundesliga,2016,2016/2017,Germany
+Bayern Munich,Corentin Tolisso,22.0,Central Midfield,Olympique Lyon,€41.50m,in,Summer,41.5,1 Bundesliga,2017,2017/2018,Germany
+Bayern Munich,Kingsley Coman,21.0,Left Winger,Juventus FC,€21.00m,in,Summer,21.0,1 Bundesliga,2017,2017/2018,Germany
+Bayern Munich,Niklas Süle,21.0,Centre-Back,TSG 1899 Hoffenheim,€20.00m,in,Summer,20.0,1 Bundesliga,2017,2017/2018,Germany
+Bayern Munich,James Rodríguez,26.0,Attacking Midfield,Real Madrid,Loan fee:€13.00m,in,Summer,13.0,1 Bundesliga,2017,2017/2018,Germany
+Bayern Munich,Serge Gnabry,21.0,Right Winger,SV Werder Bremen,€8.00m,in,Summer,8.0,1 Bundesliga,2017,2017/2018,Germany
+Bayern Munich,Sandro Wagner,30.0,Centre-Forward,TSG 1899 Hoffenheim,€13.00m,in,Winter,13.0,1 Bundesliga,2017,2017/2018,Germany
+Bayern Munich,Alphonso Davies,18.0,Left-Back,Vancouver Whitecaps FC,€14.00m,in,Winter,14.0,1 Bundesliga,2018,2018/2019,Germany
+Bayern Munich,Lucas Hernández,23.0,Centre-Back,Atlético de Madrid,€80.00m,in,Summer,80.0,1 Bundesliga,2019,2019/2020,Germany
+Bayern Munich,Benjamin Pavard,23.0,Right-Back,VfB Stuttgart,€35.00m,in,Summer,35.0,1 Bundesliga,2019,2019/2020,Germany
+Bayern Munich,Philippe Coutinho,27.0,Left Winger,FC Barcelona,Loan fee:€8.50m,in,Summer,8.5,1 Bundesliga,2019,2019/2020,Germany
+Bayern Munich,Michaël Cuisance,20.0,Central Midfield,Borussia Mönchengladbach,€8.00m,in,Summer,8.0,1 Bundesliga,2019,2019/2020,Germany
+Bayern Munich,Ivan Perisic,30.0,Left Midfield,Inter Milan,Loan fee:€5.00m,in,Summer,5.0,1 Bundesliga,2019,2019/2020,Germany
+Bayern Munich,Fiete Arp,19.0,Centre-Forward,Hamburger SV,€3.00m,in,Summer,3.0,1 Bundesliga,2019,2019/2020,Germany
+Bayern Munich,Leroy Sané,24.0,Right Winger,Manchester City,€49.00m,in,Summer,49.0,1 Bundesliga,2020,2020/2021,Germany
+Bayern Munich,Marc Roca,23.0,Defensive Midfield,RCD Espanyol Barcelona,€9.00m,in,Summer,9.0,1 Bundesliga,2020,2020/2021,Germany
+Bayern Munich,Bouna Sarr,28.0,Right-Back,Olympique Marseille,€8.00m,in,Summer,8.0,1 Bundesliga,2020,2020/2021,Germany
+Bayern Munich,Douglas Costa,30.0,Right Winger,Juventus FC,Loan fee:€250k,in,Summer,0.25,1 Bundesliga,2020,2020/2021,Germany
+Bayern Munich,Dayot Upamecano,22.0,Centre-Back,RB Leipzig,€42.50m,in,Summer,42.5,1 Bundesliga,2021,2021/2022,Germany
+Bayern Munich,Marcel Sabitzer,27.0,Central Midfield,RB Leipzig,€15.00m,in,Summer,15.0,1 Bundesliga,2021,2021/2022,Germany
+Bayern Munich,Matthijs de Ligt,22.0,Centre-Back,Juventus FC,€67.00m,in,Summer,67.0,1 Bundesliga,2022,2022/2023,Germany
+Bayern Munich,Sadio Mané,30.0,Left Winger,Liverpool FC,€32.00m,in,Summer,32.0,1 Bundesliga,2022,2022/2023,Germany
+Bayern Munich,Mathys Tel,17.0,Centre-Forward,Stade Rennais FC,€20.00m,in,Summer,20.0,1 Bundesliga,2022,2022/2023,Germany
+Bayern Munich,Ryan Gravenberch,20.0,Central Midfield,Ajax Amsterdam,€18.50m,in,Summer,18.5,1 Bundesliga,2022,2022/2023,Germany
+Bayern Munich,Yann Sommer,34.0,Goalkeeper,Borussia Mönchengladbach,€8.00m,in,Winter,8.0,1 Bundesliga,2022,2022/2023,Germany

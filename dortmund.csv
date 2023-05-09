@@ -1,0 +1,78 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season,country
+Borussia Dortmund,Neven Subotic,19.0,Centre-Back,1.FSV Mainz 05,€4.50m,in,Summer,4.5,1 Bundesliga,2008,2008/2009,Germany
+Borussia Dortmund,Mohamed Zidan,26.0,Second Striker,Hamburger SV,€2.80m,in,Summer,2.8,1 Bundesliga,2008,2008/2009,Germany
+Borussia Dortmund,Patrick Owomoyela,28.0,Right-Back,SV Werder Bremen,€2.50m,in,Summer,2.5,1 Bundesliga,2008,2008/2009,Germany
+Borussia Dortmund,Felipe Santana,22.0,Defence,Figueirense Futebol Clube,€2.10m,in,Summer,2.1,1 Bundesliga,2008,2008/2009,Germany
+Borussia Dortmund,Tamás Hajnal,27.0,Attacking Midfield,Karlsruher SC,€1.25m,in,Summer,1.25,1 Bundesliga,2008,2008/2009,Germany
+Borussia Dortmund,Young-pyo Lee,31.0,Left-Back,Tottenham Hotspur,€500k,in,Summer,0.5,1 Bundesliga,2008,2008/2009,Germany
+Borussia Dortmund,Kevin-Prince Boateng,21.0,Attacking Midfield,Tottenham Hotspur,Loan fee:€100k,in,Winter,0.1,1 Bundesliga,2008,2008/2009,Germany
+Borussia Dortmund,Mats Hummels,20.0,Centre-Back,Bayern Munich,€4.20m,in,Summer,4.2,1 Bundesliga,2009,2009/2010,Germany
+Borussia Dortmund,Lucas Barrios,24.0,Centre-Forward,CSD Colo Colo,€4.20m,in,Summer,4.2,1 Bundesliga,2009,2009/2010,Germany
+Borussia Dortmund,Sven Bender,20.0,Defensive Midfield,TSV 1860 Munich,€1.50m,in,Summer,1.5,1 Bundesliga,2009,2009/2010,Germany
+Borussia Dortmund,Dimitar Rangelov,26.0,Second Striker,FC Energie Cottbus,€1.00m,in,Summer,1.0,1 Bundesliga,2009,2009/2010,Germany
+Borussia Dortmund,Robert Lewandowski,21.0,Centre-Forward,Lech Poznan,€4.75m,in,Summer,4.75,1 Bundesliga,2010,2010/2011,Germany
+Borussia Dortmund,Mitchell Langerak,21.0,Goalkeeper,Melbourne Victory,€500k,in,Summer,0.5,1 Bundesliga,2010,2010/2011,Germany
+Borussia Dortmund,Ilkay Gündogan,20.0,Central Midfield,1.FC Nuremberg,€5.50m,in,Summer,5.5,1 Bundesliga,2011,2011/2012,Germany
+Borussia Dortmund,Ivan Perisic,22.0,Left Midfield,Club Brugge KV,€4.00m,in,Summer,4.0,1 Bundesliga,2011,2011/2012,Germany
+Borussia Dortmund,Chris Löwe,22.0,Left-Back,Chemnitzer FC,€225k,in,Summer,0.225,1 Bundesliga,2011,2011/2012,Germany
+Borussia Dortmund,Marco Reus,23.0,Attacking Midfield,Borussia Mönchengladbach,€17.10m,in,Summer,17.1,1 Bundesliga,2012,2012/2013,Germany
+Borussia Dortmund,Julian Schieber,23.0,Centre-Forward,VfB Stuttgart,€5.50m,in,Summer,5.5,1 Bundesliga,2012,2012/2013,Germany
+Borussia Dortmund,Leonardo Bittencourt,18.0,Attacking Midfield,FC Energie Cottbus,€2.70m,in,Summer,2.7,1 Bundesliga,2012,2012/2013,Germany
+Borussia Dortmund,Oliver Kirch,29.0,Defensive Midfield,1.FC Kaiserslautern,€350k,in,Summer,0.35,1 Bundesliga,2012,2012/2013,Germany
+Borussia Dortmund,Nuri Sahin,24.0,Defensive Midfield,Real Madrid,Loan fee:€1.00m,in,Winter,1.0,1 Bundesliga,2012,2012/2013,Germany
+Borussia Dortmund,Henrikh Mkhitaryan,24.0,Attacking Midfield,Shakhtar Donetsk,€27.50m,in,Summer,27.5,1 Bundesliga,2013,2013/2014,Germany
+Borussia Dortmund,Pierre-Emerick Aubameyang,24.0,Centre-Forward,AS Saint-Étienne,€13.00m,in,Summer,13.0,1 Bundesliga,2013,2013/2014,Germany
+Borussia Dortmund,Sokratis Papastathopoulos,25.0,Centre-Back,SV Werder Bremen,€9.90m,in,Summer,9.9,1 Bundesliga,2013,2013/2014,Germany
+Borussia Dortmund,Milos Jojic,21.0,Central Midfield,FK Partizan Belgrade,€2.20m,in,Winter,2.2,1 Bundesliga,2013,2013/2014,Germany
+Borussia Dortmund,Ciro Immobile,24.0,Centre-Forward,Torino FC,€18.50m,in,Summer,18.5,1 Bundesliga,2014,2014/2015,Germany
+Borussia Dortmund,Matthias Ginter,20.0,Centre-Back,SC Freiburg,€10.00m,in,Summer,10.0,1 Bundesliga,2014,2014/2015,Germany
+Borussia Dortmund,Adrián Ramos,28.0,Centre-Forward,Hertha BSC,€9.70m,in,Summer,9.7,1 Bundesliga,2014,2014/2015,Germany
+Borussia Dortmund,Shinji Kagawa,25.0,Attacking Midfield,Manchester United,€8.00m,in,Summer,8.0,1 Bundesliga,2014,2014/2015,Germany
+Borussia Dortmund,Nuri Sahin,25.0,Defensive Midfield,Real Madrid,€7.00m,in,Summer,7.0,1 Bundesliga,2014,2014/2015,Germany
+Borussia Dortmund,Kevin Kampl,24.0,Central Midfield,Red Bull Salzburg,€12.00m,in,Winter,12.0,1 Bundesliga,2014,2014/2015,Germany
+Borussia Dortmund,Gonzalo Castro,28.0,Central Midfield,Bayer 04 Leverkusen,€11.00m,in,Summer,11.0,1 Bundesliga,2015,2015/2016,Germany
+Borussia Dortmund,Roman Bürki,24.0,Goalkeeper,SC Freiburg,€3.50m,in,Summer,3.5,1 Bundesliga,2015,2015/2016,Germany
+Borussia Dortmund,Ju-ho Park,28.0,Left-Back,1.FSV Mainz 05,€3.00m,in,Summer,3.0,1 Bundesliga,2015,2015/2016,Germany
+Borussia Dortmund,Julian Weigl,19.0,Defensive Midfield,TSV 1860 Munich,€2.50m,in,Summer,2.5,1 Bundesliga,2015,2015/2016,Germany
+Borussia Dortmund,Ousmane Dembélé,19.0,Right Winger,Stade Rennais FC,€35.00m,in,Summer,35.0,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,André Schürrle,25.0,Left Winger,VfL Wolfsburg,€30.00m,in,Summer,30.0,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Mario Götze,24.0,Attacking Midfield,Bayern Munich,€22.00m,in,Summer,22.0,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Sebastian Rode,25.0,Central Midfield,Bayern Munich,€12.00m,in,Summer,12.0,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Raphaël Guerreiro,22.0,Left-Back,FC Lorient,€12.00m,in,Summer,12.0,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Emre Mor,18.0,Right Winger,FC Nordsjaelland,€9.75m,in,Summer,9.75,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Marc Bartra,25.0,Centre-Back,FC Barcelona,€8.00m,in,Summer,8.0,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Mikel Merino,20.0,Central Midfield,CA Osasuna,€3.75m,in,Summer,3.75,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Alexander Isak,17.0,Centre-Forward,AIK Solna,€8.60m,in,Winter,8.6,1 Bundesliga,2016,2016/2017,Germany
+Borussia Dortmund,Andriy Yarmolenko,27.0,Right Winger,Dynamo Kyiv,€25.00m,in,Summer,25.0,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Jadon Sancho,17.0,Left Winger,Manchester City U18,€20.59m,in,Summer,20.59,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Maximilian Philipp,23.0,Second Striker,SC Freiburg,€20.00m,in,Summer,20.0,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Mahmoud Dahoud,21.0,Central Midfield,Borussia Mönchengladbach,€12.00m,in,Summer,12.0,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Ömer Toprak,27.0,Centre-Back,Bayer 04 Leverkusen,€12.00m,in,Summer,12.0,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Jeremy Toljan,23.0,Right-Back,TSG 1899 Hoffenheim,€7.00m,in,Summer,7.0,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Manuel Akanji,22.0,Centre-Back,FC Basel 1893,€21.50m,in,Winter,21.5,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Sergio Gómez,17.0,Left-Back,FC Barcelona U19,€3.00m,in,Winter,3.0,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Michy Batshuayi,24.0,Centre-Forward,Chelsea FC,Loan fee:€1.50m,in,Winter,1.5,1 Bundesliga,2017,2017/2018,Germany
+Borussia Dortmund,Abdou Diallo,22.0,Centre-Back,1.FSV Mainz 05,€28.00m,in,Summer,28.0,1 Bundesliga,2018,2018/2019,Germany
+Borussia Dortmund,Axel Witsel,29.0,Defensive Midfield,Tianjin Tianhai (-2019),€20.00m,in,Summer,20.0,1 Bundesliga,2018,2018/2019,Germany
+Borussia Dortmund,Thomas Delaney,26.0,Central Midfield,SV Werder Bremen,€20.00m,in,Summer,20.0,1 Bundesliga,2018,2018/2019,Germany
+Borussia Dortmund,Marius Wolf,23.0,Right-Back,Eintracht Frankfurt,€5.00m,in,Summer,5.0,1 Bundesliga,2018,2018/2019,Germany
+Borussia Dortmund,Paco Alcácer,24.0,Centre-Forward,FC Barcelona,Loan fee:€2.00m,in,Summer,2.0,1 Bundesliga,2018,2018/2019,Germany
+Borussia Dortmund,Leonardo Balerdi,19.0,Centre-Back,CA Boca Juniors,€15.50m,in,Winter,15.5,1 Bundesliga,2018,2018/2019,Germany
+Borussia Dortmund,Mats Hummels,30.0,Centre-Back,Bayern Munich,€30.50m,in,Summer,30.5,1 Bundesliga,2019,2019/2020,Germany
+Borussia Dortmund,Nico Schulz,26.0,Left-Back,TSG 1899 Hoffenheim,€25.50m,in,Summer,25.5,1 Bundesliga,2019,2019/2020,Germany
+Borussia Dortmund,Thorgan Hazard,26.0,Left Winger,Borussia Mönchengladbach,€25.50m,in,Summer,25.5,1 Bundesliga,2019,2019/2020,Germany
+Borussia Dortmund,Julian Brandt,23.0,Attacking Midfield,Bayer 04 Leverkusen,€25.00m,in,Summer,25.0,1 Bundesliga,2019,2019/2020,Germany
+Borussia Dortmund,Paco Alcácer,25.0,Centre-Forward,FC Barcelona,€21.00m,in,Summer,21.0,1 Bundesliga,2019,2019/2020,Germany
+Borussia Dortmund,Erling Haaland,19.0,Centre-Forward,Red Bull Salzburg,€20.00m,in,Winter,20.0,1 Bundesliga,2019,2019/2020,Germany
+Borussia Dortmund,Emre Can,26.0,Defensive Midfield,Juventus FC,Loan fee:€1.00m,in,Winter,1.0,1 Bundesliga,2019,2019/2020,Germany
+Borussia Dortmund,Jude Bellingham,17.0,Central Midfield,Birmingham City,€25.00m,in,Summer,25.0,1 Bundesliga,2020,2020/2021,Germany
+Borussia Dortmund,Emre Can,26.0,Defensive Midfield,Juventus FC,€25.00m,in,Summer,25.0,1 Bundesliga,2020,2020/2021,Germany
+Borussia Dortmund,Donyell Malen,22.0,Left Winger,PSV Eindhoven,€30.00m,in,Summer,30.0,1 Bundesliga,2021,2021/2022,Germany
+Borussia Dortmund,Gregor Kobel,23.0,Goalkeeper,VfB Stuttgart,€15.00m,in,Summer,15.0,1 Bundesliga,2021,2021/2022,Germany
+Borussia Dortmund,Sébastien Haller,28.0,Centre-Forward,Ajax Amsterdam,€31.00m,in,Summer,31.0,1 Bundesliga,2022,2022/2023,Germany
+Borussia Dortmund,Karim Adeyemi,20.0,Left Winger,Red Bull Salzburg,€30.00m,in,Summer,30.0,1 Bundesliga,2022,2022/2023,Germany
+Borussia Dortmund,Nico Schlotterbeck,22.0,Centre-Back,SC Freiburg,€20.00m,in,Summer,20.0,1 Bundesliga,2022,2022/2023,Germany
+Borussia Dortmund,Anthony Modeste,34.0,Centre-Forward,1. FC Köln,€5.10m,in,Summer,5.1,1 Bundesliga,2022,2022/2023,Germany
+Borussia Dortmund,Salih Özcan,24.0,Defensive Midfield,1. FC Köln,€5.00m,in,Summer,5.0,1 Bundesliga,2022,2022/2023,Germany
+Borussia Dortmund,Julien Duranville,16.0,Right Winger,RSC Anderlecht,€8.50m,in,Winter,8.5,1 Bundesliga,2022,2022/2023,Germany
+Borussia Dortmund,Julian Ryerson,25.0,Right-Back,1.FC Union Berlin,€5.00m,in,Winter,5.0,1 Bundesliga,2022,2022/2023,Germany
