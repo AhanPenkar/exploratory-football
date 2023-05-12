@@ -1,23 +1,23 @@
-Squad,Pts_1992
-Arsenal,72
-Aston Villa,60
-Chelsea,53
-Coventry City,44
-Crystal Palace,57
-Everton,53
-Leeds United,82
-Liverpool,64
-Luton Town,42
-Manchester City,70
-Manchester Utd,78
-Norwich City,45
-Nott'ham Forest,59
-Notts County,40
-Oldham Athletic,51
-QPR,54
-Sheffield Utd,57
-Sheffield Weds,75
-Southampton,52
-Tottenham,52
-West Ham,38
-Wimbledon,53
+Competition_Name,Gender,Country,Season_End_Year,Squad,Team_or_Opponent,Rk,MP,W,D,L,GF,GA,GD,Pts_1992,Pts.MP,Attendance,Top.Team.Scorer,Goalkeeper,Notes
+Premier League,M,ENG,1992,Arsenal,team,4,42,19,15,8,81,46,35,72,1.71,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Aston Villa,team,7,42,17,9,16,48,44,4,60,1.43,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Chelsea,team,14,42,13,14,15,50,60,-10,53,1.26,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Coventry City,team,19,42,11,11,20,35,44,-9,44,1.05,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Crystal Palace,team,10,42,14,15,13,53,61,-8,57,1.36,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Everton,team,12,42,13,14,15,52,51,1,53,1.26,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Leeds United,team,1,42,22,16,4,74,37,37,82,1.95,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Liverpool,team,6,42,16,16,10,47,40,7,64,1.52,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Luton Town,team,20,42,10,12,20,38,71,-33,42,1.0,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Manchester City,team,5,42,20,10,12,61,48,13,70,1.67,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Manchester Utd,team,2,42,21,15,6,63,33,30,78,1.86,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Norwich City,team,18,42,11,12,19,47,63,-16,45,1.07,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Nott'ham Forest,team,8,42,16,11,15,60,58,2,59,1.4,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Notts County,team,21,42,10,10,22,40,62,-22,40,0.95,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Oldham Athletic,team,17,42,14,9,19,63,67,-4,51,1.21,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,QPR,team,11,42,12,18,12,48,47,1,54,1.29,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Sheffield Utd,team,9,42,16,9,17,65,63,2,57,1.36,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Sheffield Weds,team,3,42,21,12,9,62,49,13,75,1.79,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Southampton,team,16,42,14,10,18,39,55,-16,52,1.24,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Tottenham,team,15,42,15,7,20,58,63,-5,52,1.24,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,West Ham,team,22,42,9,11,22,37,59,-22,38,0.9,,-2147483648,-2147483648,-2147483648
+Premier League,M,ENG,1992,Wimbledon,team,13,42,13,14,15,53,53,0,53,1.26,,-2147483648,-2147483648,-2147483648

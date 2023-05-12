@@ -1,23 +1,23 @@
-Squad,Pts_1995
-Arsenal,51
-Aston Villa,48
-Blackburn,89
-Chelsea,54
-Coventry City,50
-Crystal Palace,45
-Everton,50
-Ipswich Town,27
-Leeds United,73
-Leicester City,29
-Liverpool,74
-Manchester City,49
-Manchester Utd,88
-Newcastle Utd,72
-Norwich City,43
-Nott'ham Forest,77
-QPR,60
-Sheffield Weds,51
-Southampton,54
-Tottenham,62
-West Ham,50
-Wimbledon,56
+Competition_Name,Gender,Country,Season_End_Year,Squad,Team_or_Opponent,Rk,MP,W,D,L,GF,GA,GD,Pts_1995,Pts.MP,Attendance,Top.Team.Scorer,Goalkeeper,Notes
+Premier League,M,ENG,1995,Arsenal,team,12,42,13,12,17,53,49,4,51,1.21,35062.0,Ian Wright - 18,David Seaman,
+Premier League,M,ENG,1995,Aston Villa,team,18,42,11,15,16,51,56,-5,48,1.14,28676.0,Dean Saunders - 15,Mark Bosnich,
+Premier League,M,ENG,1995,Blackburn,team,1,42,27,8,7,80,39,41,89,2.12,25151.0,Alan Shearer - 34,Tim Flowers,→ Champions League via league finish
+Premier League,M,ENG,1995,Chelsea,team,11,42,13,15,14,50,55,-5,54,1.29,20709.0,John Spencer - 11,Dmitri Kharine,
+Premier League,M,ENG,1995,Coventry City,team,16,42,12,14,16,44,62,-18,50,1.19,14518.0,Dion Dublin - 13,Steve Ogrizovic,
+Premier League,M,ENG,1995,Crystal Palace,team,19,42,11,12,19,34,49,-15,45,1.07,14867.0,Chris Armstrong - 8,Nigel Martyn,Relegated
+Premier League,M,ENG,1995,Everton,team,15,42,11,17,14,44,51,-7,50,1.19,29102.0,Paul Rideout - 14,Neville Southall,→ UEFA Cup Winners' Cup via cup win 2
+Premier League,M,ENG,1995,Ipswich Town,team,22,42,7,6,29,36,93,-57,27,0.64,17581.0,Claus Thomsen - 5,Craig Forrest,Relegated
+Premier League,M,ENG,1995,Leeds United,team,5,42,20,13,9,59,38,21,73,1.74,33433.0,Tony Yeboah - 12,John Lukic,→ UEFA Cup via league finish 1
+Premier League,M,ENG,1995,Leicester City,team,21,42,6,11,25,45,80,-35,29,0.69,20235.0,"Iwan Roberts, Mark Robins - 9",Kevin Poole,Relegated
+Premier League,M,ENG,1995,Liverpool,team,4,42,21,11,10,65,37,28,74,1.76,33305.0,Robbie Fowler - 25,David James,→ UEFA Cup via league finish
+Premier League,M,ENG,1995,Manchester City,team,17,42,12,13,17,53,64,-11,49,1.17,21492.0,Uwe Rösler - 15,Tony Coton,
+Premier League,M,ENG,1995,Manchester Utd,team,2,42,26,10,6,77,29,48,88,2.1,43664.0,Andrei Kanchelskis - 14,Peter Schmeichel,→ UEFA Cup via league finish
+Premier League,M,ENG,1995,Newcastle Utd,team,6,42,20,12,10,67,47,20,72,1.71,34373.0,Peter Beardsley - 12,Pavel Srníček,
+Premier League,M,ENG,1995,Norwich City,team,20,42,10,13,19,37,54,-17,43,1.02,18724.0,Ashley Ward - 8,Bryan Gunn,Relegated
+Premier League,M,ENG,1995,Nott'ham Forest,team,3,42,22,11,9,72,43,29,77,1.83,22079.0,Stan Collymore - 23,Mark Crossley,→ UEFA Cup via league finish
+Premier League,M,ENG,1995,QPR,team,8,42,17,9,16,61,59,2,60,1.43,14791.0,Les Ferdinand - 24,Tony Roberts,
+Premier League,M,ENG,1995,Sheffield Weds,team,13,42,13,12,17,49,57,-8,51,1.21,26527.0,Mark Bright - 11,Kevin Pressman,
+Premier League,M,ENG,1995,Southampton,team,10,42,12,18,12,61,63,-2,54,1.29,14496.0,Matt Le Tissier - 19,Bruce Grobbelaar,
+Premier League,M,ENG,1995,Tottenham,team,7,42,16,14,12,66,58,8,62,1.48,26032.0,Jürgen Klinsmann - 20,Ian Walker,
+Premier League,M,ENG,1995,West Ham,team,14,42,13,11,18,44,48,-4,50,1.19,18728.0,Tony Cottee - 13,Luděk Mikloško,
+Premier League,M,ENG,1995,Wimbledon,team,9,42,15,11,16,48,65,-17,56,1.33,9847.0,Efan Ekoku - 9,Hans Segers,

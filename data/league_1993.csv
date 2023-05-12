@@ -1,23 +1,23 @@
-Squad,Pts_1993
-Arsenal,56
-Aston Villa,74
-Blackburn,71
-Chelsea,56
-Coventry City,52
-Crystal Palace,49
-Everton,53
-Ipswich Town,52
-Leeds United,51
-Liverpool,59
-Manchester City,57
-Manchester Utd,84
-Middlesbrough,44
-Norwich City,72
-Nott'ham Forest,40
-Oldham Athletic,49
-QPR,63
-Sheffield Utd,52
-Sheffield Weds,59
-Southampton,50
-Tottenham,59
-Wimbledon,54
+Competition_Name,Gender,Country,Season_End_Year,Squad,Team_or_Opponent,Rk,MP,W,D,L,GF,GA,GD,Pts_1993,Pts.MP,Attendance,Top.Team.Scorer,Goalkeeper,Notes
+Premier League,M,ENG,1993,Arsenal,team,10,42,15,11,16,40,38,2,56,1.33,24403.0,Ian Wright - 15,David Seaman,→ European Cup Winners' Cup via cup win 2
+Premier League,M,ENG,1993,Aston Villa,team,2,42,21,11,10,57,40,17,74,1.76,29594.0,Dean Saunders - 12,Nigel Spink,→ UEFA Cup via league finish
+Premier League,M,ENG,1993,Blackburn,team,4,42,20,11,11,68,46,22,71,1.69,16247.0,Alan Shearer - 16,Bobby Mimms,
+Premier League,M,ENG,1993,Chelsea,team,11,42,14,14,14,51,54,-3,56,1.33,18754.0,Graham Stuart - 10,Kevin Hitchcock,
+Premier League,M,ENG,1993,Coventry City,team,15,42,13,13,16,52,57,-5,52,1.24,15504.0,Micky Quinn - 17,Steve Ogrizovic,
+Premier League,M,ENG,1993,Crystal Palace,team,20,42,11,16,15,48,61,-13,49,1.17,15726.0,Chris Armstrong - 15,Nigel Martyn,Relegated
+Premier League,M,ENG,1993,Everton,team,13,42,15,8,19,53,55,-2,53,1.26,20457.0,Tony Cottee - 12,Neville Southall,
+Premier League,M,ENG,1993,Ipswich Town,team,16,42,12,16,14,50,55,-5,52,1.24,18185.0,Chris Kiwomya - 10,Clive Baker,
+Premier League,M,ENG,1993,Leeds United,team,17,42,12,15,15,57,62,-5,51,1.21,29229.0,Lee Chapman - 13,John Lukic,
+Premier League,M,ENG,1993,Liverpool,team,6,42,16,11,15,62,55,7,59,1.4,37009.0,Ian Rush - 14,David James,
+Premier League,M,ENG,1993,Manchester City,team,9,42,15,12,15,56,51,5,57,1.36,24698.0,David White - 16,Tony Coton,
+Premier League,M,ENG,1993,Manchester Utd,team,1,42,24,12,6,67,31,36,84,2.0,35132.0,Mark Hughes - 15,Peter Schmeichel,→ Champions League via league finish
+Premier League,M,ENG,1993,Middlesbrough,team,21,42,11,11,20,54,75,-21,44,1.05,16522.0,Paul Wilkinson - 13,Stephen Pears,Relegated
+Premier League,M,ENG,1993,Norwich City,team,3,42,21,9,12,61,65,-4,72,1.71,16253.0,Mark Robins - 15,Bryan Gunn,→ UEFA Cup via league finish 1
+Premier League,M,ENG,1993,Nott'ham Forest,team,22,42,10,10,22,41,62,-21,40,0.95,21910.0,Nigel Clough - 10,Mark Crossley,Relegated
+Premier League,M,ENG,1993,Oldham Athletic,team,19,42,13,10,19,63,74,-11,49,1.17,12862.0,Ian Olney - 12,Paul Gerrard,
+Premier League,M,ENG,1993,QPR,team,5,42,17,12,13,63,55,8,63,1.5,15001.0,Les Ferdinand - 20,Tony Roberts,
+Premier League,M,ENG,1993,Sheffield Utd,team,14,42,14,10,18,54,53,1,52,1.24,18799.0,Brian Deane - 15,Alan Kelly Jr.,
+Premier League,M,ENG,1993,Sheffield Weds,team,7,42,15,14,13,55,51,4,59,1.4,27264.0,Mark Bright - 12,Chris Woods,
+Premier League,M,ENG,1993,Southampton,team,18,42,13,11,18,54,61,-7,50,1.19,15382.0,Matt Le Tissier - 15,Tim Flowers,
+Premier League,M,ENG,1993,Tottenham,team,8,42,16,11,15,60,66,-6,59,1.4,27879.0,Teddy Sheringham - 21,Erik Thorstvedt,
+Premier League,M,ENG,1993,Wimbledon,team,12,42,14,12,16,56,55,1,54,1.29,8405.0,Dean Holdsworth - 19,Hans Segers,

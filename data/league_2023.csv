@@ -1,21 +1,21 @@
-Squad,Pts_2023
-Arsenal,81
-Aston Villa,54
-Bournemouth,39
-Brentford,50
-Brighton,55
-Chelsea,42
-Crystal Palace,40
-Everton,32
-Fulham,48
-Leeds United,30
-Leicester City,30
-Liverpool,62
-Manchester City,82
-Manchester Utd,63
-Newcastle Utd,65
-Nott'ham Forest,33
-Southampton,24
-Tottenham,57
-West Ham,37
-Wolves,40
+Competition_Name,Gender,Country,Season_End_Year,Squad,Team_or_Opponent,Rk,MP,W,D,L,GF,GA,GD,Pts_2023,Pts.MP,xG,xGA,xGD,xGD.90,Last.5,Attendance,Top.Team.Scorer,Goalkeeper,Notes
+Premier League,M,ENG,2023,Arsenal,team,2,35,25,6,4,83,39,44,81,2.31,67.5,39.2,28.3,0.81,D D L W W,60200.0,"Martin Ødegaard, Martinelli - 15",Aaron Ramsdale,-2147483648
+Premier League,M,ENG,2023,Aston Villa,team,8,35,16,6,13,46,43,3,54,1.54,44.9,49.0,-4.1,-0.12,W D W L L,41650.0,Ollie Watkins - 14,Emiliano Martínez,-2147483648
+Premier League,M,ENG,2023,Bournemouth,team,14,35,11,6,18,37,67,-30,39,1.11,36.8,59.9,-23.1,-0.66,W L W W L,10369.0,Philip Billing - 7,Neto,-2147483648
+Premier League,M,ENG,2023,Brentford,team,9,35,12,14,9,52,45,7,50,1.43,50.8,46.3,4.5,0.13,L D W W L,17075.0,Ivan Toney - 20,David Raya,-2147483648
+Premier League,M,ENG,2023,Brighton,team,7,33,16,7,10,63,45,18,55,1.67,65.0,40.4,24.6,0.74,W L W W L,31480.0,Alexis Mac Allister - 10,Robert Sánchez,-2147483648
+Premier League,M,ENG,2023,Chelsea,team,11,34,11,9,14,34,39,-5,42,1.24,42.9,43.2,-0.3,-0.01,L L L L W,39993.0,Kai Havertz - 7,Kepa Arrizabalaga,-2147483648
+Premier League,M,ENG,2023,Crystal Palace,team,12,35,10,10,15,35,46,-11,40,1.14,34.8,45.6,-10.8,-0.31,W D L W L,24932.0,Eberechi Eze - 8,Vicente Guaita,-2147483648
+Premier League,M,ENG,2023,Everton,team,17,35,7,11,17,32,53,-21,32,0.91,40.5,62.9,-22.4,-0.64,L D L D W,39238.0,Dwight McNeil - 7,Jordan Pickford,-2147483648
+Premier League,M,ENG,2023,Fulham,team,10,35,14,6,15,50,49,1,48,1.37,41.4,59.0,-17.7,-0.5,W L L L W,23712.0,Aleksandar Mitrović - 11,Bernd Leno,-2147483648
+Premier League,M,ENG,2023,Leeds United,team,19,35,7,9,19,44,69,-25,30,0.86,43.0,60.5,-17.5,-0.5,L L D L L,36525.0,Rodrigo - 12,Illan Meslier,-2147483648
+Premier League,M,ENG,2023,Leicester City,team,18,35,8,6,21,49,64,-15,30,0.86,48.7,57.8,-9.1,-0.26,L W D D L,31850.0,Harvey Barnes - 12,Danny Ward,-2147483648
+Premier League,M,ENG,2023,Liverpool,team,5,35,18,8,9,67,42,25,62,1.77,65.7,47.3,18.4,0.52,W W W W W,53156.0,Mohamed Salah - 19,Alisson,-2147483648
+Premier League,M,ENG,2023,Manchester City,team,1,34,26,4,4,89,31,58,82,2.41,73.3,25.9,47.5,1.4,W W W W W,53236.0,Erling Haaland - 35,Ederson,-2147483648
+Premier League,M,ENG,2023,Manchester Utd,team,4,34,19,6,9,49,41,8,63,1.85,55.1,45.3,9.8,0.29,W D W L L,73697.0,Marcus Rashford - 16,David de Gea,-2147483648
+Premier League,M,ENG,2023,Newcastle Utd,team,3,34,18,11,5,61,29,32,65,1.91,62.2,34.7,27.5,0.81,L W W W L,52126.0,Callum Wilson - 15,Nick Pope,-2147483648
+Premier League,M,ENG,2023,Nott'ham Forest,team,16,35,8,9,18,34,65,-31,33,0.94,37.0,61.0,-24.0,-0.69,L L W L W,29170.0,Brennan Johnson - 8,Dean Henderson,-2147483648
+Premier League,M,ENG,2023,Southampton,team,20,35,6,6,23,31,64,-33,24,0.69,35.0,53.1,-18.1,-0.52,L D L L L,30486.0,James Ward-Prowse - 8,Gavin Bazunu,-2147483648
+Premier League,M,ENG,2023,Tottenham,team,6,35,17,6,12,64,57,7,57,1.63,51.8,45.7,6.1,0.17,L L D L W,61589.0,Harry Kane - 26,Hugo Lloris,-2147483648
+Premier League,M,ENG,2023,West Ham,team,15,35,10,7,18,38,50,-12,37,1.06,45.4,47.4,-1.9,-0.06,W L L L W,62462.0,Saïd Benrahma - 6,Łukasz Fabiański,-2147483648
+Premier League,M,ENG,2023,Wolves,team,13,35,11,7,17,30,50,-20,40,1.14,34.5,52.0,-17.5,-0.5,W L W L W,31471.0,"Rúben Neves, Daniel Podence - 6",José Sá,-2147483648
